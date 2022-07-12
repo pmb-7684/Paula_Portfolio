@@ -8,8 +8,10 @@ Example data science portfolio
 * Used the programming language R (R_studio) to clean the data.
 * Optimized linear, Lasso, Random Forest regressor, and other Machine learning techniques to determine the number of deaths from COVID-19 in 2020.
 * Used Tableau to visualize important points in the data.
-* Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index.  
-<a href= https://github.com/pmb-7684/BAN-530-Capstone/blob/main/BAN%20Week%206%20-%20Final%20Report_pmbailey.pdf>
+* Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index. 
+ 
+<a href="https://github.com/pmb-7684/BAN-530-Capstone/blob/main/BAN%20Week%206%20-%20Final%20Report_pmbailey.pdf" target=_blank">PDF></a>>
+                                                                                                                                
 ![](/images/StngencyIndex.png)
 
 
