@@ -42,4 +42,6 @@ Example data science portfolio
 
 # Python Project
 ## [Project 1: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.ipynb)
-* Use Gradient Descent Method to predict the selling price of a used car.  Create the formula using python and predicted the estimated an used cars resale value based kilometers driven at 10, 15, and 35.
+* Use Gradient Descent Method to predict the selling price of a used car.  
+* Create the formula using python and predicted the estimated an used cars resale value based kilometers driven at 10,000, 15,000, and 35,000.
+
