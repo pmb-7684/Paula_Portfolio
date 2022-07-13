@@ -37,5 +37,5 @@ Example data science portfolio
 * Optimized Classification tree, Logistic regression, Stacking, Random forest, K-fold regression, and Regression with stepwise (Backwards and Forward). Three were discussed in this presentation : Classification, Logistic regression, and Stacking.
 
 ![](/images/Classification.png)
-![](/logistic.png)
+![](/images/logistic.png)
 ![](/images/stacking.png)
