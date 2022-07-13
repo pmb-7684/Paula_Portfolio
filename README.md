@@ -28,3 +28,14 @@ Example data science portfolio
 
 * Utilized JMP Pro 15 developed by SAS. Each student analysed and created their own models. Due to my curiousity, I decided to run 26 different models to see which model(s) best predicted the testing data.
 * Optimized Regression, Lasso, Elastic Net, Random Forest, Neutral Net, and Boosted Tree. The Neutral Net model would predict 94.54% of the test model.
+
+
+# [Project 4: COVID-19 Effects on Crime in Chicago: Project Overview](https://github.com/pmb-7684/BAN-502-Course-Files)
+* "Dataset comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."
+
+* We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations. 
+* Optimized Classification tree, Logistic regression, Stacking, Random forest, K-fold regression, and Regression with stepwise (Backwards and Forward). Three were discussed in this presentation : Classification, Logistic regression, and Stacking.
+
+![](/images/Classification.png)
+![](/logistic.png)
+![](/images/stacking.png)
