@@ -9,9 +9,7 @@ Example data science portfolio
 * Optimized linear, Lasso, Random Forest regressor, and other Machine learning techniques to determine the number of deaths from COVID-19 in 2020.
 * Used Tableau to visualize important points in the data.
 * Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index. 
- 
-<a href="https://github.com/pmb-7684/BAN-530-Capstone/blob/main/BAN%20Week%206%20-%20Final%20Report_pmbailey.pdf" target=_blank">PDF></a>>
-                                                                                                                                
+                                                                                                                               
 ![](/images/StngencyIndex.png)
 
 
@@ -24,3 +22,9 @@ Example data science portfolio
 * Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well
 
 ![](/images/primaryTypeDIff.png)
+
+# [Project 3: Equity using JMP Pro15](https://github.com/pmb-7684/BAN-525-Case-Studies-in-BA)
+* Determined which variables effect the equity loan and whether a person is a good or bad credit risk. The possible determinants of BAD are LOAN, MORTDUE, VALUE, REASON, JOB, YOJ, DEROG, DELINQ, CLAGE, NINQ, and DEBTINC. The Y (response variable) is Bad, which is a categorical variable.
+
+* Utilized JMP Pro 15 developed by SAS. Each student analysed and created their own models. Due to my curiousity, I decided to run 26 different models to see which model(s) best predicted the testing data.
+* Optimized Regression, Lasso, Elastic Net, Random Forest, Neutral Net, and Boosted Tree. The Neutral Net model would predict 94.54% of the test model.
