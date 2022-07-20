@@ -41,7 +41,16 @@ Example data science portfolio
 ![](/images/stacking.png)
 
 # Python Project
+## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
+* Use Sqlite to create databases and tables. Afterwards, complete joins and queries. 
+
+## [Project 2: Project Overview](https://github.com/pmb-7684/)
+* Coming This week - Use Sqlite to complete joins and queries on either NorthWinds or Chinook database. 
+
+## [Project 1.5: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.5.ipynb)
+* Use list, dictionary, and numpy to read in Jane Austen's  novel *Pride and Prejudice to count the number of words within the entire book and later in chapter 1.
+
 ## [Project 1: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.ipynb)
 * Use Gradient Descent Method to predict the selling price of a used car.  
-* Create the formula using python and predicted the estimated an used cars resale value based kilometers driven at 10,000, 15,000, and 35,000.
+* Create the formula using python and predicted the estimated used cars resale value based kilometers driven at 10,000, 15,000, and 35,000.
 
