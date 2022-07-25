@@ -41,11 +41,14 @@ Example data science portfolio
 ![](/images/stacking.png)
 
 # Python Project
+## [Project 4: Project Overview](https://github.com/pmb-7684/)
+* Coming this Week Using Spark and PySpark. (mini project)
+
 ## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
-* Use Sqlite to create databases and tables. Afterwards, complete joins and queries. 
+* Use Sqlite to create databases and tables. Afterwards, complete joins and queries. (mini project)
 
 ## [Project 2: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project2_Sqlite.ipynb)
-* Coming This week - Use Sqlite to complete joins and queries on either NorthWinds or Chinook database. 
+* Use Sqlite to complete joins and queries on Chinook database. (mini project)
 
 ## [Project 1.5: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.5.ipynb)
 * Use list, dictionary, and numpy to read in Jane Austen's  novel *Pride and Prejudice to count the number of words within the entire book and later in chapter 1.
