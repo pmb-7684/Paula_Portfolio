@@ -44,7 +44,7 @@ Example data science portfolio
 ## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
 * Use Sqlite to create databases and tables. Afterwards, complete joins and queries. 
 
-## [Project 2: Project Overview](https://github.com/pmb-7684/)
+## [Project 2: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project2_Sqlite.ipynb)
 * Coming This week - Use Sqlite to complete joins and queries on either NorthWinds or Chinook database. 
 
 ## [Project 1.5: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.5.ipynb)
