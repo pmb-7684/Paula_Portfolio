@@ -45,7 +45,7 @@ Example data science portfolio
 *Coming Soon!  Please visit often.  Visualizations using Tableau and data projects.  The next project will be on the Charlotte Mecklenburg library.  The next project will be homelessness.
 
 ## [Project 4: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/ApSparkByExample.ipynb)
-* Learning Spark SQl via Linkedin Learning. 
+* Learning Spark SQl via Linkedin Learning and course on SkillShare. 
 
 ## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
 * Use Sqlite to create databases and tables. Afterwards, complete joins and queries. (mini project)
