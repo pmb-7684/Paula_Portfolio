@@ -40,10 +40,9 @@ Example data science portfolio
 ![](/images/logistic.png)
 ![](/images/stacking.png)
 
-# Python Project
+# Python Projects
 ## [Project 5: Project Overview](https://github.com/pmb-7684/)
-*Coming Soon!  Please visit often.
-*Tableau visualization and data projects.  The next project will be on the Charlotte Mecklenburg library.  The next project will be homelessness.
+*Coming Soon!  Please visit often.  Visualizations using Tableau and data projects.  The next project will be on the Charlotte Mecklenburg library.  The next project will be homelessness.
 
 ## [Project 4: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/ApSparkByExample.ipynb)
 * Learning Spark SQl via Linkedin Learning. 
@@ -55,7 +54,7 @@ Example data science portfolio
 * Use Sqlite to complete joins and queries on Chinook database. (mini project)
 
 ## [Project 1.5: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.5.ipynb)
-* Use list, dictionary, and numpy to read in Jane Austen's  novel *Pride and Prejudice to count the number of words within the entire book and later in chapter 1.
+* Use list, dictionary, and numpy to read in Jane Austen's novel *Pride and Prejudice to count the number of words within the entire book and later in chapter 1.
 
 ## [Project 1: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project1.ipynb)
 * Use Gradient Descent Method to predict the selling price of a used car.  
