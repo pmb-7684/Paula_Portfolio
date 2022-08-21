@@ -41,8 +41,12 @@ Example data science portfolio
 ![](/images/stacking.png)
 
 # Python Project
-## [Project 4: Project Overview](https://github.com/pmb-7684/)
-* Coming this Week Using Spark and PySpark. (mini project)
+## [Project 5: Project Overview](https://github.com/pmb-7684/)
+*Coming Soon!  Please visit often.
+*Tableau visualization and data projects.  The next project will be on the Charlotte Mecklenburg library.  The next project will be homelessness.
+
+## [Project 4: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/ApSparkByExample.ipynb)
+* Learning Spark SQl via Linkedin Learning. 
 
 ## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
 * Use Sqlite to create databases and tables. Afterwards, complete joins and queries. (mini project)
