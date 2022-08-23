@@ -14,12 +14,12 @@ Example data science portfolio
 
 
 ## [Project 2: COVID-19 Effects on Crime in Chicago: Project Overview](https://github.com/pmb-7684/MIS-505-Data-Visualization)
-*"Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far in 2020.  Chicago has been known for having a high crime rate especially murder rate.  In 2019, 492 individuals lost their lives and 567 were killed in 2018.  So, in 2020 was there a significant effect on crime in general due to the pandemic, social distancing, and state government mandates?"*
+*"Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far in 2020.  Chicago has been known for having a high crime rate especially murder rate.  In 2019, 492 individuals lost their lives and 567 were killed in 2018.  So, in 2020 was there a significant effect on crime in general due to the pandemic, social distancing, and state government mandates?"  
 
 * Acquired data from the [City of Chicago portal](https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie)
 * The dataset contained over 260,000 observations and 22 variables. Compared the period from 1/1/2019 to 8/1/2019 (pre COVID) to 1/1/2020 to 8/1/2020 (beginning of the pandemic).
 * Acquired data from [data.gov](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Illinois&data-type=CommunityLevels&list_select_county=17031)for the COVID cases in Chicago. Note: link to the orginal website is ot longer active.  The web site above from the CDC provides similar information.
-* Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well
+* Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well.
 
 ![](/images/primaryTypeDIff.png)
 
@@ -41,8 +41,8 @@ Example data science portfolio
 ![](/images/stacking.png)
 
 # Python Projects
-## [Project 5: Project Overview](https://github.com/pmb-7684/)
-*Coming Soon!  Please visit often.  Visualizations using Tableau and data projects.  The next project will be on the Charlotte Mecklenburg library.  The next project will be homelessness.
+## [Project 5: Project Overview](https://github.com/pmb-7684/)  
+* Coming Soon!  Please visit often.  Visualizations using Tableau and data projects.  The next project will be on the Charlotte Mecklenburg library.  This will be followed by a project on homelessness.
 
 ## [Project 4: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/ApSparkByExample.ipynb)
 * Learning Spark SQl via Linkedin Learning and course on SkillShare. 
