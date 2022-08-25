@@ -47,7 +47,7 @@ Example data science portfolio
 ## [Project 4: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/ApSparkByExample.ipynb)
 * Learning Spark SQl via Linkedin Learning and course on SkillShare. 
 
-## [Project 3: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project3_Sqlite.ipynb)
+## [Project 3: Project Overview](https://github.com/pmb-7684/)
 * Use Sqlite to create databases and tables. Afterwards, complete joins and queries. (mini project)
 
 ## [Project 2: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/Project2_Sqlite.ipynb)
