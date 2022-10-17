@@ -1,7 +1,7 @@
 # Data Science Portfolio 
 ##### Being updated weekly.
 
-## [Project 1 - New York City Leading Casues of Death: Project Overview](https://github.com/pmb-7684/New-York-City-Leading-Causes-of-Death#readme)
+## [Project 1 - New York City Leading Causes of Death: Project Overview](https://github.com/pmb-7684/New-York-City-Leading-Causes-of-Death#readme)
 **"New York City Leading Causes of Death"** is a personal project using exploratory analysis. The data set comes from New York City’s [NYCOpenData](https://opendata.cityofnewyork.us/) and says it contains information about causes of death from 2007. However, the data did not contain information for all years. For this project, we only focused on women in NYC and their cause of death.  The project is also being completed in python analyzing causes of death for men.
 
 * `New_York_City_leading_Causes_of_Death` data set contained 1,272 observations and 7 variables. Each observation represents a cause of death.
