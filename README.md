@@ -5,7 +5,7 @@
 **"New York City Leading Causes of Death"** is a personal project using exploratory analysis. The data set comes from New York City’s [NYCOpenData](https://opendata.cityofnewyork.us/) and says it contains information about causes of death from 2007. However, the data did not contain information for all years. For this project, we only focused on women in NYC and their cause of death.  The project is also being completed in python analyzing causes of death for men.
 
 * `New_York_City_leading_Causes_of_Death` data set contained 1,272 observations and 7 variables. Each observation represents a cause of death.
-* Used the programming language R to clean and performed exploratory data analysis.the data.
+* Used the programming language R to clean and performed exploratory data analysis.
 * From our analysis, we determined the number one cause of death for women in NYC was hear disease.  The second highest cause of death was Cancer for most years.
 
 
