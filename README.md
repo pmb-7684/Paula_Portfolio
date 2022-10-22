@@ -6,7 +6,7 @@
 
 * `New_York_City_leading_Causes_of_Death` data set contained 1,272 observations and 7 variables. Each observation represents a cause of death.
 * Used the programming language R to clean and performed exploratory data analysis.
-* From our analysis, we determined the number one cause of death for women in NYC was hear disease.  The second highest cause of death was Cancer for most years.
+* From our analysis, we determined the number one cause of death for women in NYC was heart disease.  The second highest cause of death was Cancer for most years.
 
 
 ## [Project 2 - The Right Conditions for COVID-19: Project Overview](https://github.com/pmb-7684/BAN-530-Graduate-Capstone-Project/blob/main/BAN%20Week%206%20-%20Final%20Report_pmbailey.pdf) 
@@ -47,8 +47,8 @@ Academic Project (UNCW)
 
 # Python Projects
 
-## Project 1 - New York City Leading Casues of Death: Project Overview  **This is the exact same project but completed in python - Under Construction**
-**"New York City Leading Causes of Death"** is a personal project using exploratory analysis. The data set comes from New York City’s [NYCOpenData](https://opendata.cityofnewyork.us/) and says it contains information about causes of death from 2007. However, the data did not contain information for all years. For this project, we only focused on men in NYC and their cause of death.  The anlaysis on women can be viewed above in R.
+## Project 1 - New York City Leading Causes of Death: Project Overview  **This is the exact same project but completed in python - Under Construction**
+**"New York City Leading Causes of Death"** is a personal project using exploratory analysis. The data set comes from New York City’s [NYCOpenData](https://opendata.cityofnewyork.us/) and says it contains information about causes of death from 2007. However, the data did not contain information for all years. For this project, we only focused on men in NYC and their cause of death.  The analysis on women can be viewed above in R.
 Personal Project
 
 
